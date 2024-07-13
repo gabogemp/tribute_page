@@ -1,8 +1,14 @@
 *{
   box-sizing:border-box;
   background-color: rgb(4, 17, 36);
+  color: rgb(182, 190, 201);
 }
 
-div{
+main{
+    padding: 5px 100px 5px 100px;
+}
+
+
+figure, h1 {
     text-align: center;
 }
